@@ -5,3 +5,5 @@ Medica_RAG_chatbot.egg-info
 logs
 __pycache__
 vectorstore
+.DS_Store
+
